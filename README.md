@@ -39,15 +39,13 @@ End result?
 
 ---
 
-## 🛠️💻 Tech Stack (The Avengers 🦸)
+## 🛠️💻 Tech Stack
 
 - 🐍 Python  
 - 📦 Pandas & NumPy  
 - 🤖 Scikit-learn  
 - 📊 Matplotlib & Seaborn  
 - 📓 Jupyter Notebook  
-
-No frameworks were harmed in this project.
 
 ---
 
@@ -58,30 +56,20 @@ CustomerChurnPredict/
 ├── 📄 README.md # You are here 👋
 ├── 📦 requirements.txt # Because dependencies matter
 
-yaml
-Copy code
-
 ---
 
-## 🚀▶️ How to Run (Easy Mode)
+## 🚀▶️ How to Run
 
 1️⃣ Clone this masterpiece:
 git clone https://github.com/vidhiomar/CustomerChurnPredict.git
 
-arduino
-Copy code
-
 2️⃣ Install dependencies (trust the process):
 pip install -r requirements.txt
-
-sql
-Copy code
 
 3️⃣ Open the notebook and feel productive:
 jupyter notebook CustomerChurnPredict.ipynb
 
-yaml
-Copy code
+
 
 ---
 
