@@ -10,8 +10,7 @@ Instead of waiting for customers to say *“It’s not you, it’s me”*, we le
 
 ---
 
-## 📦📊 Dataset (a.k.a. The Tea ☕)
-
+## 📦📊 Dataset 
 We use the **Credit Card Customer Churn Prediction** dataset from Kaggle:
 
 🔗 https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction  
@@ -19,7 +18,7 @@ We use the **Credit Card Customer Churn Prediction** dataset from Kaggle:
 It includes:
 - Customer demographics 👥  
 - Account & transaction details 💳  
-- A **churn flag** 🚩 (the ultimate betrayal)
+- A **churn flag** 🚩 
 
 ---
 
@@ -31,7 +30,7 @@ The notebook `CustomerChurnPredict.ipynb` does the following:
 ✨ Cleans the data (because messy data = messy life)  
 ✨ Performs EDA 📊 (aka staring at plots until insights appear)  
 ✨ Encodes & scales features 🔧  
-✨ Trains ML models 🤖  
+✨ Trains models 🤖  
 ✨ Evaluates them like a strict examiner 📈  
 
 End result?  
@@ -49,13 +48,14 @@ End result?
 
 ---
 
-## 📂🗂️ Repo Structure (Very Organized, Much Wow)
+## 📁 Project Structure
 
+```text
 CustomerChurnPredict/
-├── 📓 CustomerChurnPredict.ipynb # The brain 🧠
-├── 📄 README.md # You are here 👋
-├── 📦 requirements.txt # Because dependencies matter
-
+├── 📓 CustomerChurnPredict.ipynb
+├── 📄 README.md
+└── 📦 requirements.txt
+```
 ---
 
 ## 🚀▶️ How to Run
@@ -70,25 +70,6 @@ pip install -r requirements.txt
 jupyter notebook CustomerChurnPredict.ipynb
 
 
-
----
-
-## 🎯✨ Objective (Why This Exists)
-
-To build a machine learning model that:
-- Predicts customer churn accurately 🎯  
-- Helps banks keep customers 🏦  
-- Makes this repo look great on your portfolio 💼😎  
-
----
-
-## 🤔💭 Why Should You Care?
-
-✔ Real-world dataset  
-✔ Complete ML pipeline  
-✔ Beginner-friendly  
-✔ Recruiter-approved™  
-✔ Slightly sarcastic README 😌  
 
 ---
 
